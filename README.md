@@ -1,9 +1,6 @@
-<p align="center" width="300">
-   <img align="center" width="200" />
-   <h3 align="center"> 💫 ¡Hey  I am Osnam 👨🏻‍💻</h3>
-</p>
 
-<p align="center">I am <strong>Frontend Engineer</strong> with 8 years of experience developing software.<br><br>A person who enjoy learning from others, with an enthusiastic attitude to resolve customer problems, constantly improving with passion for accessibility, usability and creating efficient web interfaces.</p>
+<h3 align="center">Hi 👋, I'm Osnam Manso</h3>
+<p align="center"><strong>Frontend Engineer</strong> with 8 years of experience developing software.<br><br>A person who enjoy learning from others, with an enthusiastic attitude to resolve customer problems, constantly improving with passion for accessibility, usability and creating efficient web interfaces.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomosnam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomosnam/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tomosnam) 
