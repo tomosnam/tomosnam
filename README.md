@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osnam. Full-Stack Java and JavaScript Developer</h1>
+<h1 align="center">Hi 👋, I'm Osnam. Full-Stack Developer</h1>
 <h3 align="center">Building Scalable Solutions with Spring Boot and React</h3>
 
 <h3 align="left">Connect with me:</h3>
