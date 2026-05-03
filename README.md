@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osnam. Full-Stack Developer</h1>
-<h3 align="center">Building Scalable Solutions with Java and React</h3>
+<h3 align="center">Building Software with Java and React</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
